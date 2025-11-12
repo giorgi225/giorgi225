@@ -9,4 +9,7 @@
 <br />
 <br />
 <br />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giorgi225&" alt="giorgi225" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giorgi225&show_icons=true&theme=radical" />
+</p>
