@@ -1,14 +1,46 @@
-<h1>Hi 👋, I'm gigi shalmberidze</h1>
-<p>I’m a <strong>Web Developer</strong> with over 5 years of experience crafting high-performance web apps. I specialize in React, Next.js, and modern JavaScript, and have recently expanded my expertise into backend development with Node.js, Express, and MySQL/Prisma. I focus on building seamless user experiences while ensuring reliable and scalable backend systems. I prioritize clean code, scalability, and security. I implement best practices like JWT, OAuth, and performance optimizations to ensure apps are fast, secure, and able to grow with your users. Let’s create something exceptional together!</p>
+<h1 align="center">Hi 👋, I'm Gigi Shalamberidze</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgi225&label=Profile%20views&color=0e75b6&style=flat" alt="giorgi225" /> </p>
+<p align="center">
+Frontend / Full-Stack Developer with 5+ years of experience building high-performance web applications.
+</p>
 
-👨‍💻 Check out my Next.js portfolio website at [https://shalamberidze-gigi.vercel.app/](https://shalamberidze-gigi.vercel.app/)
+<p>
+I specialize in <strong>React, Next.js, and TypeScript</strong>, and have delivered <strong>15+ production-grade projects</strong> across SaaS, service, and travel industries — including a casino management system handling thousands of daily users and tour booking platforms that increased client engagement by <strong>25%</strong>.
+</p>
 
-📫 How to reach me **gigi.shalamberidze2022@gmail.com**
-<br />
-<br />
-<br />
+---
+
+### 🚀 What I Bring
+
+- **Frontend Excellence**  
+  React, Next.js, TypeScript, Tailwind CSS, Shadcn UI  
+  Clean, scalable, pixel-perfect, and accessible UI development.
+
+- **Full-Stack Capability**  
+  Node.js, Express, PostgreSQL/MySQL, Prisma  
+  Building end-to-end features with seamless integration and performance.
+
+- **Performance & Optimization**  
+  Improved page load speed by up to **40%**, directly boosting user engagement.
+
+- **Collaboration & Product Thinking**  
+  Working closely with stakeholders to translate business needs into scalable technical solutions, delivering on time and within scope.
+
+---
+
+### 🎯 Focus
+
+I’m currently open to **frontend or full-stack roles**, where I can contribute to building impactful, scalable products and work with strong engineering teams.
+
+---
+
+### 🌐 Links
+
+- 🔗 Portfolio: https://shalamberidze-gigi.vercel.app  
+- 💻 GitHub: https://github.com/giorgi225  
+- 📫 Email: gigi.shalamberidze2022@gmail.com  
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giorgi225&show_icons=true&theme=radical" />
